@@ -3,7 +3,7 @@
   <a href="https://Fouz132.github.io/React_Portfolio/" target="_blank">Fouziya.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/screen.png" />
 </div>
 
 <br/>
