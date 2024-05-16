@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React_Portfolio/static/css/main.c395ad87.css",
-    "main.js": "/React_Portfolio/static/js/main.c4281ca3.js",
+    "main.js": "/React_Portfolio/static/js/main.aaf6c034.js",
     "static/js/415.4d6acbeb.chunk.js": "/React_Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/React_Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/emotion.png": "/React_Portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
@@ -15,16 +15,16 @@
     "static/media/chatify.png": "/React_Portfolio/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/Fouz_resume.pdf": "/React_Portfolio/static/media/Fouz_resume.bb86b140210153be3f91.pdf",
     "static/media/home-bg.jpg": "/React_Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/React_Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/female.svg": "/React_Portfolio/static/media/female.de24aecd1644190c42f216e1af2b4eef.svg",
     "static/media/pre.svg": "/React_Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/React_Portfolio/index.html",
     "main.c395ad87.css.map": "/React_Portfolio/static/css/main.c395ad87.css.map",
-    "main.c4281ca3.js.map": "/React_Portfolio/static/js/main.c4281ca3.js.map",
+    "main.aaf6c034.js.map": "/React_Portfolio/static/js/main.aaf6c034.js.map",
     "415.4d6acbeb.chunk.js.map": "/React_Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/React_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c395ad87.css",
-    "static/js/main.c4281ca3.js"
+    "static/js/main.aaf6c034.js"
   ]
 }
